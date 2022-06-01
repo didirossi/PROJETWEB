@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cv.css"?>
+<listecv>
+	<cv categorie="CV">
+		<nom lang="en">Rolland Gautier</nom>
+		<specialité>Ostheopathe sport</specialité>
+		<age>Age : 33</age>
+		<adresse>Adresse : 13 Rue de la paix 75016 PARIS</adresse>
+		<email>Email : Rolland.gautier@ece.fr </email>
+		<Experience > Experience :  Medecin equipe de france 2016-2021 *Medecin equipe Volley de Creteil 2016-2021</Experience>
+		<Etudes> Etudes :Lycée Decartes * Université Créteil </Etudes>
+			
+	</cv>
+	<cv categorie="CV">
+		<nom lang="en">Rolland Gautier</nom>
+		<specialité>Ostheopathe sport</specialité>
+		<age>Age : 33</age>
+		<adresse>Adresse : 13 Rue de la paix 75016 PARIS</adresse>
+		<email>Email : Rolland.gautier@ece.fr </email>
+		<Experience > Experience :  Medecin equipe de france 2016-2021 *Medecin equipe Volley de Creteil 2016-2021</Experience>
+		<Etudes> Etudes :Lycée Decartes * Université Créteil </Etudes>
+
+	</cv>
+	
+</listecv>
