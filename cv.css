@@ -1,0 +1,26 @@
+listecv {
+    background-color: #ffffff;
+    width: 100%;
+}
+
+cv {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+
+nom {
+    color: #FF0000;
+    font-size: 20pt;
+}
+
+specialité {
+    color: #0000FF;
+    font-size: 20pt;
+}
+
+age,adresse,email, Experience,Etudes {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}
